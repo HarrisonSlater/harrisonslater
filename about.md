@@ -4,7 +4,7 @@ title: About
 permalink: /about/
 ---
 
-CONTENT COMING SOON.. MAYBE
+CONTENT COMING SOON
 
 
 
