@@ -1,0 +1,25 @@
+@media only screen and (max-width: 600px) {
+  #selfie {
+    width: 100%;
+  }
+}
+
+#selfie {
+  border: 2px #cccccc solid;
+}
+
+figure {
+  border: 1px #cccccc solid;
+}
+
+figcaption {
+  background-color: black;
+  color: white;
+  font-style: italic;
+  padding: 2px;
+  text-align: center;
+}
+
+body {
+  overflow-y: scroll;
+}
